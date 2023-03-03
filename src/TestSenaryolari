@@ -1,5 +1,6 @@
  ➢ Action class kullanılacak
  Testler Senaryoları
+url: http://demowebshop.tricentis.com/
 
 Senaryo 1: Kayıt oluşturma Testi
 ➢ Siteye gidin
@@ -13,16 +14,19 @@ Senaryo 2: Negatif kayıt Testi
 ➢ Yukarda kaydolduğunuz email ile kaydolmaya calisin
 ➢ Register butonuna tıkayınız
 ➢ “The specified email already exists” mesajının görüldüğünü doğrulayınız
+
 Senaryo 3: Login Testler
 ➢ Siteye gidin
 ➢ Login butonuna tıklayın
 ➢ Geçerli email ve password I giriniz
 ➢ Login butonuna tıklatınız ve login olduğunuzu doğrulayınız
+
 Senaryo 4: Negatif Login Testler
 ➢ Siteye gidin
 ➢ Login butonuna tıklayın
 ➢ Geçersiz email veya password giriniz
 ➢ Login butonuna tıklatınız ve login olamadığınızı doğrulayınız
+
 Senaryo 5: Order Testler
 ➢ Siteye gidin
 ➢ Login olun
